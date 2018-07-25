@@ -43,13 +43,11 @@ body{
     border-image: initial;
     border-bottom-style: initial;
     border-bottom-color: initial;
-    border: 3px solid green; 
 }
 
 .values-box .tab{
     border-bottom: 1px solid rgb(216, 216, 216);
     overflow: auto;  
-    border: 3px solid blue;   
 }
 
 .values-box .tab h3{
@@ -60,15 +58,13 @@ body{
     margin-left: 10px;
     margin-bottom: 3px;
     float: left;
-    border: 3px solid red; 
 }
 
 .values-box .values{
     border-radius: 5px;
     border-right-style: solid
     border-right-color: black
-    border-image: initial;
-    border: 3px solid black; 
+    border-image: initial; 
 }
 
 .values-box .values p{
@@ -77,7 +73,6 @@ body{
     margin-left: 10px;
     margin-top: 1px;
     margin-bottom: 1px;
-    border: 3px solid yellow; 
 }
 
 .graph-box{
@@ -120,7 +115,6 @@ body{
     margin-right: 10px;
     margin-top: 3px;
     margin-bottom: 3px;
-    border: 3px solid black;
 }
 
 #db_len{
