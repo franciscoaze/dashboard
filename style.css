@@ -18,7 +18,15 @@ body{
     background-color: rgb(66, 196, 247);
     border-radius: 2px;
 }
-h1 {
-    color: navy;
-    margin-left: 20px;
+.banner h2{
+    color: white;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+.banner h3{
+    color: white;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
 }
