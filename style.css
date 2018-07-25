@@ -111,3 +111,8 @@ body{
     display: inline-block;
     font-size: 1.3em;
 }
+
+#db_len{
+    color: grey;
+    font-size: 1.3em; 
+}
