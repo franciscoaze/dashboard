@@ -31,7 +31,7 @@ body{
     display: inline-block;
 }
 
-.tab{
+.values-box{
     border-radius: 5px;
     border-width: 1px 1px 0px;
     border-top-style: solid;
@@ -44,9 +44,12 @@ body{
     border-bottom-style: initial;
     border-bottom-color: initial;
 }
+
+.values-box .tab{
+    border-bottom: 1px solid rgb(216, 216, 216);    
 }
 
-.tab h3{
+.values-box .tab h3{
     font-size: 1.75rem;
     color: rgb(66, 196, 247);
     border-bottom: rgb(216, 216, 216);
@@ -83,7 +86,8 @@ body{
     border-left-color: rgb(216, 216, 216);
     border-image: initial;
 }
-#on_status {
+
+#on_status{
     color: rgb(1,10,75);
     padding-top: 7px;
     margin-left: 1%;
