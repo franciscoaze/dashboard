@@ -73,18 +73,35 @@ body{
     margin-bottom: 2px;
 }
 
-.history_graph{
+.graph-box{
     border-radius: 5px;
     border-width: 1px 1px 0px;
     border-top-style: solid;
     border-right-style: solid;
-    border-bottom-style: initial;
     border-left-style: solid;
     border-top-color: rgb(216, 216, 216);
     border-right-color: rgb(216, 216, 216);
-    border-bottom-color: initial;
     border-left-color: rgb(216, 216, 216);
     border-image: initial;
+    border-bottom-style: initial;
+    border-bottom-color: initial;
+}
+
+.graph-box .tab{
+    border-bottom: 1px solid rgb(216, 216, 216);    
+}
+
+.graph-box .tab h3{
+    font-size: 1.75rem;
+    color: rgb(66, 196, 247);
+    border-bottom: rgb(216, 216, 216);
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+
+.graph-box .history_graph{
+
 }
 
 #on_status{
