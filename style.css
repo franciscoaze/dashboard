@@ -116,5 +116,7 @@ body{
     color: grey;
     font-size: 1.3em; 
     display: inline-block;
-    float: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
 }
