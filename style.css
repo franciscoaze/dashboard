@@ -47,7 +47,7 @@ body{
 
 .tab h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(116,173,177);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -55,7 +55,7 @@ body{
 }
 
 #on_status {
-    color: green;
+    color: rgb(116,173,177);
     padding-top: 7px;
     margin-left: 1%;
     display: inline-block;
