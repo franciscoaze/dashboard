@@ -59,14 +59,14 @@ body{
     float: left;
 }
 
-.values{
+values-box .values{
     border-radius: 5px;
     border-right-style: solid
     border-right-color: black
     border-image: initial;
 }
 
-.values p{
+values-box .values p{
     font-size: 1.5rem;
     color: black;
     margin-left: 10px;
