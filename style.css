@@ -115,4 +115,6 @@ body{
 #db_len{
     color: grey;
     font-size: 1.3em; 
+    display: inline-block;
+    float: right;
 }
