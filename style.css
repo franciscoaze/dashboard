@@ -85,11 +85,13 @@ body{
     border-image: initial;
     border-bottom-style: initial;
     border-bottom-color: initial;
+    border: 3px solid red; 
 }
 
 .graph-box .tab{
     border-bottom: 1px solid rgb(216, 216, 216);
     overflow: auto; 
+    border: 3px solid black; 
 }
 
 .graph-box .tab h3{
@@ -99,6 +101,7 @@ body{
     margin-top: 3px;
     margin-left: 10px;
     margin-bottom: 3px;
+    border: 3px solid blue; 
 }
 
 .graph-box .history_graph{
@@ -120,4 +123,5 @@ body{
     margin-right: 10px;
     margin-top: 3px;
     margin-bottom: 3px;
+    border: 3px solid green; 
 }
