@@ -30,3 +30,11 @@ body{
     margin-left: 2%;
     display: inline-block;
 }
+
+#on_status {
+    color: green;
+    padding-top: 7px;
+    margin-left: 1%;
+    display: inline-block;
+
+}
