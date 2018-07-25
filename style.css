@@ -40,7 +40,7 @@ body{
     border-left-style: solid;
     border-top-color: rgb(216, 216, 216);
     border-right-color: rgb(216, 216, 216);
-    border-bottom-color: initial;
+    border-bottom-color: rgb(1,10,75);
     border-left-color: rgb(216, 216, 216);
     border-image: initial;
 }
@@ -54,8 +54,21 @@ body{
     margin-bottom: 3px
 }
 
+.values{
+    border-radius: 5px;
+    border-right-style: solid
+    border-right-color: black
+    border-image: initial;
+}
+
+.values p{
+    font-size: 1.5rem;
+    color: black;
+    margin-left: 10px;
+    
+}
 #on_status {
-    color: rgb(116,173,177);
+    color: rgb(1,10,75);
     padding-top: 7px;
     margin-left: 1%;
     display: inline-block;
