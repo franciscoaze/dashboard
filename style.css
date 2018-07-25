@@ -46,8 +46,7 @@ body{
 }
 
 .values-box .tab{
-    border-bottom: 1px solid rgb(216, 216, 216); 
-    overflow: auto;   
+    border-bottom: 1px solid rgb(216, 216, 216);   
 }
 
 .values-box .tab h3{
@@ -89,7 +88,8 @@ body{
 }
 
 .graph-box .tab{
-    border-bottom: 1px solid rgb(216, 216, 216);    
+    border-bottom: 1px solid rgb(216, 216, 216);
+    overflow: auto; 
 }
 
 .graph-box .tab h3{
@@ -117,4 +117,5 @@ body{
     color: grey;
     font-size: 1.5rem; 
     display: inline-block;
+    float: right;
 }
