@@ -51,7 +51,7 @@ body{
 
 .values-box .tab h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(1,10,75);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
@@ -94,7 +94,7 @@ body{
 
 .graph-box .tab h3{
     font-size: 1.75rem;
-    color: rgb(66, 196, 247);
+    color: rgb(1,10,75);
     border-bottom: rgb(216, 216, 216);
     margin-top: 3px;
     margin-left: 10px;
