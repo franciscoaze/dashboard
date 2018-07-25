@@ -48,6 +48,7 @@ body{
 
 .values-box .tab{
     border-bottom: 1px solid rgb(216, 216, 216);
+    overflow: auto;  
     border: 3px solid blue;   
 }
 
@@ -119,6 +120,7 @@ values-box .values p{
     margin-right: 10px;
     margin-top: 3px;
     margin-bottom: 3px;
+    border: 3px solid black;
 }
 
 #db_len{
