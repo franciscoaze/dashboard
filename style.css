@@ -68,7 +68,7 @@ body{
     bottom: 0;
 }
 
-.values-box .values Span{
+.values-box .values p{
     font-size: 1.5rem;
     color: black;
     margin-left: 20px;
