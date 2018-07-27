@@ -68,7 +68,7 @@ body{
     bottom: 0;
 }
 
-.values-box .values p{
+.values-box .values Span{
     font-size: 1.5rem;
     color: black;
     margin-left: 20px;
@@ -79,7 +79,7 @@ body{
 
 .values-box .values .data{
     font-weight: bold;
-    display: inline;
+    
 }
 .graph-box{
     border-radius: 5px;
