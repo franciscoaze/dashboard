@@ -64,9 +64,8 @@ body{
     border-right: 1px solid rgb(216, 216, 216);
     border-image: initial; 
     display: inline-block;
-    margin-left: 20px;
-    margin-right: 20px;
     top: 50%;
+    bottom: 0;
 }
 
 .values-box .values p{
