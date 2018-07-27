@@ -79,7 +79,7 @@ body{
 
 .values-box .values .data{
     font-weight: bold;
-    display: inline-block;
+    display: inline;
 }
 .graph-box{
     border-radius: 5px;
