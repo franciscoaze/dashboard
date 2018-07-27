@@ -65,6 +65,7 @@ body{
     border-right-style: solid
     border-right-color: black
     border-image: initial; 
+    display: inline-block;
 }
 
 .values-box .values p{
